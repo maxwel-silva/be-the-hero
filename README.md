@@ -61,6 +61,5 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 :iphone: [Mobile](https://res.cloudinary.com/vinicius998609604/image/upload/v1585589970/Semana%20OmniStack%2011.0%20-%20BE%20THE%20HERO/Be_The_Hero_-_OmniStack_11_oqjedz.svg)
 
 ---
-
 Made with 🖤 by [maxwel-silva](https://github.com/maxwel-silva)
 
